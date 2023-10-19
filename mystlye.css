@@ -1,0 +1,33 @@
+ footer {
+    
+    background-color: #45d4ff;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: #fff;
+  }
+ 
+.Link { 
+text-align: center;
+}
+
+.Life {
+  float:right;
+ 
+}
+
+.Talents {
+text-align: center;
+}
+
+.TalentsIMG {
+  float:left
+}
+
+.Grid {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 0px;
+  }
